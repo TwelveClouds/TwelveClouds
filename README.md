@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TwelveClouds
 - 👀 I’m interested in getting money
 - 🌱 I’m currently learning HTML / CSS / JavaScript
-- 💞️ I’m looking to collaborate on Creating Chess 2.0 The Sequel
+- 💞️ I’m looking to collaborate on Chess 2.0 The Sequel
 - 📫 How to reach me ... email: patrick.gescheidle@gmail.com
 
 <!---
